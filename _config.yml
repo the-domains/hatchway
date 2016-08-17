@@ -1,4 +1,3 @@
-layout_spectrum: 0.23283820715732872
 typography_spectrum: 0.1567116416990757
 color:
   brandStrength: 0.5050483157392591
@@ -7,4 +6,6 @@ color:
   rhythmicContrast: 0.079819560283795
   brandColors:
     - '#FFFFFF'
+layout_spectrum: 0.23283820715732872
 name: Hatchway
+description: Multidisciplinar Marketing Specialist
