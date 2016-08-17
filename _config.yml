@@ -1,0 +1,14 @@
+layout_spectrum: 0.23283820715732872
+typography_spectrum: 0.1567116416990757
+color:
+  brandStrength: 0.5050483157392591
+  lightness: 0.831382064614445
+  saturation: 0.8323955696541816
+  rhythmicContrast: 0.079819560283795
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Hatchway
